@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Userlist_react/static/css/main.31d6cfe0.css",
+    "main.js": "/Userlist_react/static/js/main.652dcaf2.js",
+    "static/js/453.ed3810f9.chunk.js": "/Userlist_react/static/js/453.ed3810f9.chunk.js",
+    "static/media/gamer.png": "/Userlist_react/static/media/gamer.3c37a790f9676542b372.png",
+    "index.html": "/Userlist_react/index.html",
+    "main.652dcaf2.js.map": "/Userlist_react/static/js/main.652dcaf2.js.map",
+    "453.ed3810f9.chunk.js.map": "/Userlist_react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.652dcaf2.js"
+  ]
+}
